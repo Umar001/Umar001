@@ -5,7 +5,7 @@
 
 <h3 align="center">Building quality websites and applications. </h3>
 
-<p align="center"> 💼 Working at <a href="https://leadconcept.com/">LEADconcept Solution Leaders</a> </p> 
+<!-- <p align="center"> 💼 Working at <a href="https://leadconcept.com/">LEADconcept Solution Leaders</a> </p>  -->
 <p align="center"> ⚡ Fun fact: Enthusiast to learn new Skills 🔥 </p>
 
 <p align="center">
