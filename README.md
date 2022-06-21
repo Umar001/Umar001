@@ -34,6 +34,8 @@
     <th align="center">PHP</th>
 <!--     <th align="center">Django</th> -->
     <th align="center">Node</th>
+    <th align="center">Web3.js</th>
+    <th align="center">Ether.js</th>
   </tr>
   <tr>
     <td align="center">
@@ -48,6 +50,12 @@
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="60">
     </td>  
+    <td align="center">
+      <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" height="60">
+    </td> 
+    <td align="center">
+      <img src="https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ethers_blue.png" height="60">
+    </td> 
   </tr>
 </table>
 
@@ -123,7 +131,17 @@
   <span><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Git/git.svg" alt="git" width="40" height="40"alt="git"/></span>
   <span><img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="40" height="40"></span>
   <span><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/></span>
+  <span><img src="https://img.icons8.com/color/72/amazon-web-services.png" alt="AWS" width="40" height="40"/></span>
 </p>
+
+<h2> Recent Work </h2>
+<ul>
+<li><a href="https://avonftmarket.io/">Avocado NFT Marketplace</a></li>
+<li><a href="https://kaizilla.io/">Kaizilla Token</a></li>
+<li><a href="https://metalama.io/">Metalama Token</a></li>
+<li><a href="https://meta-dragon.quest/">Meta Dragon Token</a></li>
+<li><a href="https://ecommerceshipping.io/">Ecommerce Shipping Management Tool</a></li>
+</ul>
 
 <h2>Streak Stats</h2>
 
