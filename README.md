@@ -10,7 +10,7 @@
 <p align="center"> ⚡ Fun fact: Enthusiast to learn new Skills 🔥 </p>
 
 <p align="center">
-  <a href="/"><img alt="umar001 Activity Graph" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umar001&theme=radical&langs_count=8&layout=compact"></a>
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umar001&theme=radical&langs_count=10&layout=compact"><img alt="umar001 Activity Graph" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umar001&theme=radical&langs_count=10&layout=compact"></a>
  </p>
  
  <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=umar001&color=green" alt="umar001" /> </h2>
